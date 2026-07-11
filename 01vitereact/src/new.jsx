@@ -1,7 +1,7 @@
 function New(){
     return(
         <h1>
-            Learning react
+            Learning react {username}
         </h1>
     )
 }
